@@ -1,3 +1,5 @@
+**Usage Instructions:**
+
 ##.env
 ```bash
 Put the .env file in the project at root . I have shared the .env file in email.
@@ -21,3 +23,5 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+**Further Improvements:**
+I can add more features in it like pagination, sorting, filtering of data. Can add more backend validation checks to ensure data safety
