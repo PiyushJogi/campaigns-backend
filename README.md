@@ -1,5 +1,7 @@
-
-
+##.env
+```bash
+Put the .env file in the project at root . I have shared the .env file in email.
+```
 ## Installation
 
 ```bash
